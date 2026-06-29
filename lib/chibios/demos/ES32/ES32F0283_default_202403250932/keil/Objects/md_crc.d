@@ -1,0 +1,37 @@
+objects/md_crc.o: \
+  ..\..\..\..\..\chibios-contrib\os\common\ext\CMSIS\ES32\ES32F0283\md\md_crc.c \
+  ..\..\..\..\..\chibios-contrib\os\common\ext\CMSIS\ES32\ES32F0283\system_es32f0283.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdint.h \
+  ..\..\..\..\..\chibios-contrib\os\common\ext\CMSIS\ES32\ES32F0283\md\md_crc.h \
+  ..\..\..\..\..\chibios-contrib\os\common\ext\CMSIS\ES32\ES32F0283\es32f0283.h \
+  ..\..\..\..\os\common\ext\ARM\CMSIS\Core\Include\core_cm0.h \
+  ..\..\..\..\os\common\ext\ARM\CMSIS\Core\Include\cmsis_version.h \
+  ..\..\..\..\os\common\ext\ARM\CMSIS\Core\Include\cmsis_compiler.h \
+  ..\..\..\..\os\common\ext\ARM\CMSIS\Core\Include\cmsis_armclang.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\arm_compat.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\arm_acle.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdbool.h \
+  ..\..\..\..\..\chibios-contrib\os\common\ext\CMSIS\ES32\ES32F0283\ES32F0283\reg_gpio.h \
+  ..\..\..\..\..\chibios-contrib\os\common\ext\CMSIS\ES32\ES32F0283\ES32F0283\reg_dma.h \
+  ..\..\..\..\..\chibios-contrib\os\common\ext\CMSIS\ES32\ES32F0283\ES32F0283\reg_aes.h \
+  ..\..\..\..\..\chibios-contrib\os\common\ext\CMSIS\ES32\ES32F0283\ES32F0283\reg_crc.h \
+  ..\..\..\..\..\chibios-contrib\os\common\ext\CMSIS\ES32\ES32F0283\ES32F0283\reg_calc.h \
+  ..\..\..\..\..\chibios-contrib\os\common\ext\CMSIS\ES32\ES32F0283\ES32F0283\reg_kbcu.h \
+  ..\..\..\..\..\chibios-contrib\os\common\ext\CMSIS\ES32\ES32F0283\ES32F0283\reg_usb.h \
+  ..\..\..\..\..\chibios-contrib\os\common\ext\CMSIS\ES32\ES32F0283\ES32F0283\reg_csu.h \
+  ..\..\..\..\..\chibios-contrib\os\common\ext\CMSIS\ES32\ES32F0283\ES32F0283\reg_rtc.h \
+  ..\..\..\..\..\chibios-contrib\os\common\ext\CMSIS\ES32\ES32F0283\ES32F0283\reg_exti.h \
+  ..\..\..\..\..\chibios-contrib\os\common\ext\CMSIS\ES32\ES32F0283\ES32F0283\reg_uart.h \
+  ..\..\..\..\..\chibios-contrib\os\common\ext\CMSIS\ES32\ES32F0283\ES32F0283\reg_spi.h \
+  ..\..\..\..\..\chibios-contrib\os\common\ext\CMSIS\ES32\ES32F0283\ES32F0283\reg_i2c.h \
+  ..\..\..\..\..\chibios-contrib\os\common\ext\CMSIS\ES32\ES32F0283\ES32F0283\reg_timer.h \
+  ..\..\..\..\..\chibios-contrib\os\common\ext\CMSIS\ES32\ES32F0283\ES32F0283\reg_wwdt.h \
+  ..\..\..\..\..\chibios-contrib\os\common\ext\CMSIS\ES32\ES32F0283\ES32F0283\reg_iwdt.h \
+  ..\..\..\..\..\chibios-contrib\os\common\ext\CMSIS\ES32\ES32F0283\ES32F0283\reg_adc.h \
+  ..\..\..\..\..\chibios-contrib\os\common\ext\CMSIS\ES32\ES32F0283\ES32F0283\reg_cmp.h \
+  ..\..\..\..\..\chibios-contrib\os\common\ext\CMSIS\ES32\ES32F0283\ES32F0283\reg_rcu.h \
+  ..\..\..\..\..\chibios-contrib\os\common\ext\CMSIS\ES32\ES32F0283\ES32F0283\reg_syscfg.h \
+  ..\..\..\..\..\chibios-contrib\os\common\ext\CMSIS\ES32\ES32F0283\ES32F0283\reg_fc.h \
+  ..\..\..\..\..\chibios-contrib\os\common\ext\CMSIS\ES32\ES32F0283\ES32F0283\reg_mswd.h \
+  ..\..\..\..\..\chibios-contrib\os\common\ext\CMSIS\ES32\ES32F0283\ES32F0283\reg_tick.h \
+  ..\..\..\..\..\chibios-contrib\os\common\ext\CMSIS\ES32\ES32F0283\md\md_rcu.h
