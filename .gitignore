@@ -19,6 +19,7 @@
 *.map
 *.o
 *.a
+!/lib/rdr_lib/librdrcommon.a
 *.so
 *.dylib
 *.dll
